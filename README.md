@@ -1,0 +1,1 @@
+This repo holds work related to the Wes Bos' JS challege: https://javascript30.com/
